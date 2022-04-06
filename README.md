@@ -13,4 +13,4 @@
 - exit `exit` keluar dari program
 
 ## Demo
-<video src="test.mp4" autoplay></video>
+![Game Process](assets/test.gif)
